@@ -29,7 +29,7 @@
 :title-logo-image: image:hbase_logo_with_orca.png[pdfwidth=4.25in,align=center]
 :numbered:
 :toc: left
-:toclevels: 1
+:toclevels: 3
 :toc-title: Contents
 :sectanchors:
 :icons: font
@@ -44,7 +44,7 @@
 ifdef::backend-html5[]
 ++++
 <div>
-  <a href="https://hbase.apache.org"><img src="images/hbase_logo_with_orca.png" alt="Apache HBase Logo" /></a>
+  <a href="https://hbase.apache.org"><img src="hbase_logo_with_orca.png" alt="Apache HBase Logo" /></a>
 </div>
 ++++
 endif::[]
